@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #333;
+  padding: 1em;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 1em;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+div {
+  padding: 1em;
+}
+
+.post-list-item {
+  margin: 0.5em 0;
+  padding: 0.5em;
+  border: 1px solid #ccc;
+}
+
+form div {
+  margin-bottom: 1em;
+}
+
+form label {
+  display: block;
+  margin-bottom: 0.5em;
+}
+
+form input, form textarea {
+  width: 100%;
+  padding: 0.5em;
+  margin-top: 0.5em;
+}
+
+form button {
+  padding: 0.5em 1em;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+ul li {
+  padding: 0.5em 0;
+  border-bottom: 1px solid #ccc;
+}
